@@ -5,9 +5,9 @@ I learn Java at [Job4j](https://job4j.ru/):coffee:
 -
 :fire: My Stats :
 -
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElizavetaKr&layout=compact&theme=vue)](https://github.com/ElizavetaKr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElizavetaKr&layout=compact&theme=rose)](https://github.com/ElizavetaKr/github-readme-stats)
 -
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElizavetaKr&theme=vue)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElizavetaKr&theme=rose)](https://git.io/streak-stats)
 -
 
 <!--
