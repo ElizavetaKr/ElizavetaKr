@@ -7,7 +7,7 @@ I learn Java at [Job4j](https://job4j.ru/):coffee:
 -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElizavetaKr&layout=compact&theme=vue)](https://github.com/ElizavetaKr/github-readme-stats)
 -
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElizavetaKr&theme=vue&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElizavetaKr&theme=vue)](https://git.io/streak-stats)
 -
 
 <!--
